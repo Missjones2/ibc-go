@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "^3.4.0",
-    "@docusaurus/plugin-client-redirects": "^3.4.0",
+    "@docusaurus/plugin-client-redirects": "^3.6.3",
     "@docusaurus/plugin-content-docs": "^3.4.0",
     "@docusaurus/plugin-google-gtag": "^3.4.0",
     "@docusaurus/plugin-sitemap": "^3.4.0",
